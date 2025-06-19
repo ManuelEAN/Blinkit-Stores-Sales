@@ -9,9 +9,9 @@ To understand Blinkit's operational dynamics and consumer behavior, we analyzed 
 ### 1. What's Driving Blinkit's Revenue? (Sales by Item Type)
 Analyzing sales by item type reveals the core categories driving Blinkit's business. As shown in the table and bar chart below, Fruits and Vegetables, Snack Foods, and Household items are the top performers.
 
-https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image1.png
+![image alt](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image1.png)
 
-https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image3.png
+![image alt](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image3.png)
 
 
 
@@ -20,14 +20,14 @@ Insight: The dominance of these categories validates Blinkit's quick-commerce mo
 ### 2. Consumer Preferences: Sales by Item Fat Content
 An analysis of sales by item fat content reveals a significant skew in consumer preferences or product availability.
 
-[https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image0.png](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/65dc2d38bc0f59f9c609bb3987b7eeb515823770/image0.png)
+![image alt](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/65dc2d38bc0f59f9c609bb3987b7eeb515823770/image0.png)
 
 Insight: Items with "Regular" fat content account for a commanding 93.8% of sales, while "Low Fat" items constitute only 6.2%. This suggests either a strong consumer preference for regular products or a limited availability/variety of low-fat options within Blinkit's inventory. For a data analyst, this highlights a potential area for further investigation: is there an untapped market for health-conscious consumers, or is the current inventory strategy optimally aligned with existing demand? The inconsistent labeling ("LF," "Low Fat," "Regular," "reg") also points to a need for robust data governance.
 
 ### 3. Geographic Dynamics: Sales Performance Across Store Tiers
 Sales patterns vary significantly across different store tiers, underscoring the importance of localized strategies.
 
-https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image2.png
+![image alt](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image2.png)
 
 Insight:
 
@@ -39,7 +39,7 @@ Tier 3 Locations (Smaller Cities): Mirror Tier 1 patterns, with Fruits and Veget
 
 These variations emphasize that a "one-size-fits-all" inventory and marketing strategy is inefficient. Data-driven localization is key to optimizing supply chains, minimizing waste, and enhancing customer satisfaction across diverse urban landscapes.   
 
-Strategic Implications for Data Analytics
+## Strategic Implications for Data Analytics
 This analysis provides actionable insights for Blinkit's continued growth:
 
 Inventory Optimization: Leverage sales data to dynamically adjust dark store inventory, prioritizing high-demand items per tier to maximize turnover and minimize waste.
