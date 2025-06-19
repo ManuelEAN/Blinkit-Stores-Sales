@@ -29,21 +29,21 @@ Sales patterns vary significantly across different store tiers, underscoring the
 
 **<ins>Insight:</ins>**
 
-Tier 1 Locations (Major Metros): Show balanced demand for Fruits and Vegetables (25.0%) and Snack Foods (24.3%), indicating a mature quick-commerce market.
+**Tier 1 Locations (Major Metros):** Show balanced demand for Fruits and Vegetables (25.0%) and Snack Foods (24.3%), indicating a mature quick-commerce market.
 
-Tier 2 Locations (Emerging Metros): See Snack Foods (25.1%) take the lead, with Canned goods (13.8%) entering the top five, suggesting different consumer habits or demographics.
+**Tier 2 Locations (Emerging Metros):** See Snack Foods (25.1%) take the lead, with Canned goods (13.8%) entering the top five, suggesting different consumer habits or demographics.
 
-Tier 3 Locations (Smaller Cities): Mirror Tier 1 patterns, with Fruits and Vegetables (25.4%) and Snack Foods (24.7%) leading, implying a consistent core demand as quick-commerce penetrates new markets.
+**Tier 3 Locations (Smaller Cities):** Mirror Tier 1 patterns, with Fruits and Vegetables (25.4%) and Snack Foods (24.7%) leading, implying a consistent core demand as quick-commerce penetrates new markets.
 
 These variations emphasize that a "one-size-fits-all" inventory and marketing strategy is inefficient. Data-driven localization is key to optimizing supply chains, minimizing waste, and enhancing customer satisfaction across diverse urban landscapes.   
 
 ## Strategic Implications for Data Analytics
 This analysis provides actionable insights for Blinkit's continued growth:
 
-Inventory Optimization: Leverage sales data to dynamically adjust dark store inventory, prioritizing high-demand items per tier to maximize turnover and minimize waste.
+**Inventory Optimization:** Leverage sales data to dynamically adjust dark store inventory, prioritizing high-demand items per tier to maximize turnover and minimize waste.
 
-Market Opportunity Assessment: Conduct further analysis on the "Low Fat" category to determine if expanding offerings could attract new customer segments or if current demand doesn't justify the investment.
+**Market Opportunity Assessment:** Conduct further analysis on the "Low Fat" category to determine if expanding offerings could attract new customer segments or if current demand doesn't justify the investment.
 
-Localized Strategy: Implement data-driven, tier-specific marketing campaigns and product recommendations to resonate with local consumer preferences.
+**Localized Strategy:** Implement data-driven, tier-specific marketing campaigns and product recommendations to resonate with local consumer preferences.
 
-Data Quality Improvement: Standardize data labeling and establish robust data governance to ensure accurate and reliable insights for future strategic decisions.
+**Data Quality Improvement:** Standardize data labeling and establish robust data governance to ensure accurate and reliable insights for future strategic decisions.
