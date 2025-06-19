@@ -13,9 +13,7 @@ Analyzing sales by item type reveals the core categories driving Blinkit's busin
 
 ![image alt](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image3.png)
 
-
-
-Insight: The dominance of these categories validates Blinkit's quick-commerce model, which thrives on fulfilling immediate, high-frequency consumer needs. This data is crucial for optimizing dark store inventory to ensure high turnover rates and efficient operations.   
+**<ins>Insight:</ins>** The dominance of these categories validates Blinkit's quick-commerce model, which thrives on fulfilling immediate, high-frequency consumer needs. This data is crucial for optimizing dark store inventory to ensure high turnover rates and efficient operations.   
 
 ### 2. Consumer Preferences: Sales by Item Fat Content
 An analysis of sales by item fat content reveals a significant skew in consumer preferences or product availability.
