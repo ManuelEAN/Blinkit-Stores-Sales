@@ -17,10 +17,10 @@ https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a4753868
 
 Insight: The dominance of these categories validates Blinkit's quick-commerce model, which thrives on fulfilling immediate, high-frequency consumer needs. This data is crucial for optimizing dark store inventory to ensure high turnover rates and efficient operations.   
 
-###2. Consumer Preferences: Sales by Item Fat Content
+### 2. Consumer Preferences: Sales by Item Fat Content
 An analysis of sales by item fat content reveals a significant skew in consumer preferences or product availability.
 
-https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image0.png
+[https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/51aba0c9a4a3358b7a475386806d20f633546095/image0.png](https://github.com/ManuelEAN/Blinkit-Stores-Sales/blob/65dc2d38bc0f59f9c609bb3987b7eeb515823770/image0.png)
 
 Insight: Items with "Regular" fat content account for a commanding 93.8% of sales, while "Low Fat" items constitute only 6.2%. This suggests either a strong consumer preference for regular products or a limited availability/variety of low-fat options within Blinkit's inventory. For a data analyst, this highlights a potential area for further investigation: is there an untapped market for health-conscious consumers, or is the current inventory strategy optimally aligned with existing demand? The inconsistent labeling ("LF," "Low Fat," "Regular," "reg") also points to a need for robust data governance.
 
